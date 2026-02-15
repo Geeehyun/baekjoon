@@ -11,6 +11,7 @@
 ---
 
 ## 📂 프로젝트 구조
+```yaml
 baekjoon/
 ├─ src/
 │ ├─ bronze/
@@ -20,7 +21,7 @@ baekjoon/
 │ │ └─ Main.java
 ├─ README.md
 └─ .gitignore
-    
+```
 - 문제 번호별로 디렉토리 분리
 - 각 문제는 `Main.java` 단일 파일로 구성
 - 백준 제출 시 **코드 그대로 복사 가능**
